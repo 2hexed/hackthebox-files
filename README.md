@@ -1,7 +1,4 @@
-# hackthebox
-PwnBox or HackTheBox icons and other files
-
-## HackTheBox banner if anyone requires
+## HackTheBox Banner
 ```text
      ▄▄▄▀▄▄▄
 ▄▄▀▀▀       ▀▀▄▄▄
